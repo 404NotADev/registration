@@ -1,0 +1,12 @@
+psycopg2-binary
+djangorestframework
+djangorestframework-simplejwt
+django-filter
+celery
+redis
+gunicorn
+python-dotenv
+drf-yasg==1.21.5
+drf-spectacular
+
+#pip install --upgrade pip setuptools wheel
